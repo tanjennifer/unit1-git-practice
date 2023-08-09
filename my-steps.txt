@@ -97,7 +97,9 @@ Rm -r drinks
 
 
 ### Step 4
-
+Git init
+Git add .
+Git commit -m 'first commit'
 
 ### Step 5
 
