@@ -1,0 +1,109 @@
+### Step 2A
+/Users/jennifertan
+
+### Step 2B
+Cd Desktop
+
+
+### Step 2C
+Cd unit1-git-practice
+
+### Step 2D
+/Users/jennifertan/Desktop/unit1-git-practice
+
+
+### Step 2E
+Ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+Cd /
+
+### Step 2H
+/
+
+### Step 2I
+Applications	Volumes		etc		sbin
+Library		bin		home		tmp
+System		cores		opt		usr
+Users		dev		private		var
+
+### Step 2J
+Cd ~
+
+### Step 2K
+Cd Desktop
+Cd unit1-git-practice
+
+
+### Step 3A
+Mkdir veggies
+Mkdir meats
+Mkdir desserts
+
+
+### Step 3B
+Mv desserts sweets
+
+### Step 3C
+Mkdir proteins
+
+### Step 3D
+Mv meats proteins
+
+
+### Step 3E
+Cd veggies
+Touch carrot.txt
+Touch pea.txt
+
+### Step 3F
+Cd ..
+Cd sweets
+Touch cookie.txt
+
+### Step 3G
+mv cookie.txt donut.txt
+
+
+### Step 3H
+Cd ..
+Touch thing.txt
+
+### Step 3I
+cp thing.txt tofu.txt
+
+### Step 3J
+Mv tofu.txt proteins
+
+### Step 3K
+Cp thing.txt meats.txt
+Mv crab.txt proteins
+Cd proteins
+Mv crab.txt meats
+
+### Step 3L
+Cd ..
+Rm thing.txt
+
+### Step 3M
+Cp -r veggies plants
+
+### Step 3N
+Mkdir drinks
+Rm -r drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
