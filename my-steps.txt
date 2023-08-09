@@ -110,7 +110,9 @@ git push -u origin main
 Touch menu.txt
 Ls
 Git status
-
+Git add .
+Git commit -m 'starting a menu'
+Git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
