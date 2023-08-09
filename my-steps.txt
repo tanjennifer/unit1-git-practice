@@ -102,9 +102,14 @@ Git add .
 Git commit -m 'first commit'
 
 ### Step 5
-
+git remote add origin https://github.com/tanjennifer/unit1-git-practice.git
+git branch -M main
+git push -u origin main
 
 ### Step 6
+Touch menu.txt
+Ls
+Git status
 
 
 ### Step 7
